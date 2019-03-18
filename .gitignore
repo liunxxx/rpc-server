@@ -1,0 +1,32 @@
+# Mac
+.DS_Store
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+/out/
+# Maven
+log/
+target/
+build/
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+# Log file
+*.log
+# Java
+*.class
+*-api/target/
+*-common/target/
+*-consumer/target/
+*-provider/target/
+exitStatus*
+tmp
+temp
+/.idea/
+/bin/
